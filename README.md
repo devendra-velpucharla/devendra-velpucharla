@@ -1,7 +1,7 @@
 # Devendra Velpucharla
 
 ## 👋 About Me
-5G NR L2 (MAC/RLC) Developer with hands-on experience in DU/RU integration,
+5G NR L2 (RLC, MAC, SCH) Developer with hands-on experience in DU/RU integration,
 nFAPI/NFAPI interfaces, KPI frameworks, and performance optimization.
 
 ## 🧠 Expertise
