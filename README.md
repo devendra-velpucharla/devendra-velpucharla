@@ -14,6 +14,7 @@ nFAPI interfaces, KPI frameworks, and performance optimization.
 
 ## 📂 Featured Repositories
 - 5g-nr-dci-decoders
+- nr-5g-tb-size-calculator
 - du-log-stats-parser
 - harq-analysis
 - linux-network-tuning
