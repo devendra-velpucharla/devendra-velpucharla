@@ -1,16 +1,23 @@
-## Hi there 👋
+# Devendra Velpucharla
 
-<!--
-**devendra-velpucharla/devendra-velpucharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+5G NR L2 (MAC/RLC) Developer with hands-on experience in DU/RU integration,
+nFAPI/NFAPI interfaces, KPI frameworks, and performance optimization.
 
-Here are some ideas to get you started:
+## 🧠 Expertise
+- 5G NR MAC & RLC
+- nFAPI / NFAPI
+- DU–RU integration (Split 6)
+- HARQ, CSI, PDCCH, PUCCH
+- Linux Internals & Multithreading (C)
+- Python for log & stats analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Repositories
+- 5g-nr-dci-decoders
+- du-log-stats-parser
+- harq-analysis
+- linux-network-tuning
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/devendra-reddy-velpucharla
+- Gmail: devendra.velpucharla@gmail.com
