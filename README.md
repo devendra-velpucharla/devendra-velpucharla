@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 5G NR L2 (RLC, MAC, SCH) Developer with hands-on experience in DU/RU integration,
-nFAPI/NFAPI interfaces, KPI frameworks, and performance optimization.
+nFAPI interfaces, KPI frameworks, and performance optimization.
 
 ## 🧠 Expertise
 - 5G NR MAC & RLC
