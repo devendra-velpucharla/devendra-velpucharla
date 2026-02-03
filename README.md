@@ -6,7 +6,7 @@ nFAPI interfaces, KPI frameworks, and performance optimization.
 
 ## 🧠 Expertise
 - 5G NR MAC & RLC
-- nFAPI / NFAPI
+- nFAPI
 - DU–RU integration (Split 6)
 - HARQ, CSI, PDCCH, PUCCH
 - Linux Internals & Multithreading (C)
